@@ -155,5 +155,5 @@ It highlights the power of **Pandas, NumPy, Matplotlib, and Seaborn** in extract
 
 ## 👨‍💻 Author
 
-**HOOMI CHAUHAN**
+**BHOOMI CHAUHAN**
 
